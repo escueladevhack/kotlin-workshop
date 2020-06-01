@@ -1,4 +1,4 @@
-# workshop Kotlin
+# Workshop Kotlin
 
 ## Rama Foundations
 Contiene los fundamentos de kotlin, aquí encontraras
