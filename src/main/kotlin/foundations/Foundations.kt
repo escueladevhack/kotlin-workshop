@@ -1,3 +1,5 @@
+package foundations
+
 import kotlin.math.absoluteValue
 import kotlin.math.roundToInt
 
@@ -54,7 +56,10 @@ fun createQuestions(userName: String): ArrayList<Int> {
     val userAnswers = ArrayList<Int>()
     println("Por favor responde ${userName.toUpperCase()}")
     for ((index, question) in questions.withIndex()) {
-        val answer = (printQuestionAndAnswers(question, answers[index]))
+        val answer = (printQuestionAndAnswers(
+            question,
+            answers[index]
+        ))
         if (validateAnswer(answer)) userAnswers.add(answer) else userAnswers.add(0)
     }
     return userAnswers
@@ -93,7 +98,8 @@ fun main() {
         val userAnswers = createQuestions(userName)
         val userCorrectAnswers = getCorrectAnswers(userAnswers)
         val userInCorrectAnswers = getIncorrectAnswers(userAnswers)
-        val userPerformanceScore = calculatePerformanceScore(userCorrectAnswers, userAnswers.size)
+        val userPerformanceScore =
+            calculatePerformanceScore(userCorrectAnswers, userAnswers.size)
         println("El número de respuestas correctas fueron => $userCorrectAnswers")
         println("El número de respuestas incorrectas fueron => $userInCorrectAnswers")
         println("El puntaje fue de => $userPerformanceScore %")
