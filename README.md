@@ -31,7 +31,7 @@ Contiene los ejemplos de programación orientada a objetos en Kotlin
   - Enum
   - Inline Clases
   - Type Alias
-La presentación de este módulo se encuentra en [Presentación 2](La presentanción de este modulo se encuentra en [Presentación 1](https://docs.google.com/presentation/d/1MtAiObQStmQS-AiMw7VZAkjE09pvyMizNd3lXNn6HYc/edit?usp=sharing))
+La presentación de este módulo se encuentra en [Presentación 2](https://docs.google.com/presentation/d/1JVhzRCsjtIxXDjBP7EfczMDYY1ayQ9Qfdo7E1KHiRxw/edit?usp=sharing)
 
   
 ### Rama Functional Programming
