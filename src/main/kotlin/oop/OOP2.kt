@@ -69,13 +69,14 @@ class FlightAttendant(
 
 
 interface Airplane {
+
     fun raising()
 
     fun landing()
 
-    fun acelerate(velocity: Int)
+    infix fun accelerate(velocity: Int)
 
-    fun calling(){
+    fun calling() {
         println("Llamando a la torre de control")
     }
 }
@@ -96,7 +97,7 @@ class AirPlaneSmall(
         println("El Avión con código $code esta aterrizando y el piloto es $pilot")
     }
 
-    override fun acelerate(velocity: Int) {
+    override fun accelerate(velocity: Int) {
         println("El Avión con código $code esta acelerando a $velocity y el piloto es $pilot")
     }
 
@@ -107,7 +108,7 @@ class AirPlaneSmall(
 
 fun main() {
     val pilot = Pilot("Juan", "Gómez", 8)
-    val pilot2 = Pilot(name="Guillermo", experienceYears = 2)
+    val pilot2 = Pilot(name = "Guillermo", experienceYears = 2)
     val flightAttendant = FlightAttendant("Veronica", "Torres", 15)
     val airPlaneSmall = AirPlaneSmall("Avianca", "Boeing", "0001", pilot)
 
@@ -116,7 +117,7 @@ fun main() {
     println("Flight Attendant => $flightAttendant")
     println("El vuelo => $airPlaneSmall")
     println(airPlaneSmall.raising())
-    println(airPlaneSmall.acelerate(800))
+    println(airPlaneSmall accelerate 800)
     println(airPlaneSmall.landing())
     println(airPlaneSmall.calling())
 }
