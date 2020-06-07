@@ -17,7 +17,7 @@ Contiene los fundamentos de kotlin, aquí encontraras
 La presentación de este módulo se encuentra en [Presentación 1](https://docs.google.com/presentation/d/1MtAiObQStmQS-AiMw7VZAkjE09pvyMizNd3lXNn6HYc/edit?usp=sharing)
   
  
-### Rama OOP
+### Rama OOP y OOP-2
 Contiene los ejemplos de programación orientada a objetos en Kotlin
   - Clases
   - Interfaces
