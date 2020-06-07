@@ -38,7 +38,7 @@ La presentación de este módulo se encuentra en [Presentación 2](https://docs.
 Contiene los ejemplos de programación funcional en Kotlin
   - Lambdas
   - Funciones de orden superior
-  - Colleciones
+  - Colecciones
   - Secuencias
   - Listas
   - Set
