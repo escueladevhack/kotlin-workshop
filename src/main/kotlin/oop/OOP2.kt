@@ -106,10 +106,22 @@ class AirPlaneSmall(
 }
 
 
+enum class Roles(val code: Int) {
+    PILOT(1),
+    FLIGHT_ATTENDANT(2)
+}
+
+fun factoryPerson(role: Roles) =
+    when (role) {
+        Roles.PILOT -> Pilot("Juan", "Gómez", 8)
+        Roles.FLIGHT_ATTENDANT -> FlightAttendant("Veronica", "Torres", 15)
+    }
+
+
 fun main() {
-    val pilot = Pilot("Juan", "Gómez", 8)
-    val pilot2 = Pilot(name = "Guillermo", experienceYears = 2)
-    val flightAttendant = FlightAttendant("Veronica", "Torres", 15)
+    val pilot = factoryPerson(Roles.PILOT)
+    val pilot2 = factoryPerson(Roles.PILOT)
+    val flightAttendant = factoryPerson(Roles.FLIGHT_ATTENDANT)
     val airPlaneSmall = AirPlaneSmall("Avianca", "Boeing", "0001", pilot)
 
     println("Piloto => $pilot")
