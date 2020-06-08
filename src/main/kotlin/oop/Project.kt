@@ -3,6 +3,7 @@ package oop
 fun main() {
     TODO("Arregla este codigo para que el programa compile")
 
+    /*
     val juanGuillermo = User(1, "Juan Guillermo", "Gomez")
     val sierisimo = User(2, "Sierisimo", "Sier")
 
@@ -25,4 +26,6 @@ fun main() {
     pendientes.reassing(3, juanGuillermo)
 
     pendientes.removeWithId(1)
+
+     */
 }
