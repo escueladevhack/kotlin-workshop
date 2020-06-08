@@ -44,6 +44,8 @@ Contiene los ejemplos de programación funcional en Kotlin
   - Set
   - Map
   - Inline Functions
+  La presentación de este módulo se encuentra en [Presentación 3](https://docs.google.com/presentation/d/1d-sRIo6DCYbC-rD4pLJ2lV2V5ZFKblISw7zULbDK2rA/edit?usp=sharing)
+ 
     
 ### Rama Coroutines
 Contiene los ejemplos de coroutines en Kotlin
