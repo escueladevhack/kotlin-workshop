@@ -14,6 +14,7 @@ Contiene los fundamentos de kotlin, aquí encontraras
   - Control de flujo (if, when, for, while)
   - NullSafety y operador elvis
   - Funciones
+  
 La presentación de este módulo se encuentra en [Presentación 1](https://docs.google.com/presentation/d/1MtAiObQStmQS-AiMw7VZAkjE09pvyMizNd3lXNn6HYc/edit?usp=sharing)
   
  
@@ -31,6 +32,7 @@ Contiene los ejemplos de programación orientada a objetos en Kotlin
   - Enum
   - Inline Clases
   - Type Alias
+  
 La presentación de este módulo se encuentra en [Presentación 2](https://docs.google.com/presentation/d/1JVhzRCsjtIxXDjBP7EfczMDYY1ayQ9Qfdo7E1KHiRxw/edit?usp=sharing)
 
   
@@ -44,6 +46,7 @@ Contiene los ejemplos de programación funcional en Kotlin
   - Set
   - Map
   - Inline Functions
+  
   La presentación de este módulo se encuentra en [Presentación 3](https://docs.google.com/presentation/d/1d-sRIo6DCYbC-rD4pLJ2lV2V5ZFKblISw7zULbDK2rA/edit?usp=sharing)
  
     
