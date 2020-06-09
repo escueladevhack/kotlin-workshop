@@ -90,12 +90,7 @@ object ProductManagement {
         createProducts()
     }
 
-    fun getProductByCode(code: String) =
-        products.filter {
-            it.value.code == code
-        }.map {
-            it.value
-        }.first()
+    fun getProductByCode(code: String) = products[code]
 
     infix fun listProducts(block: (Product) -> Unit) {
         products.forEach { (_, product) ->
@@ -152,7 +147,7 @@ class BillManagement(private val userId: String) {
 
     fun buyProduct(block: () -> Pair<String, Int>) {
         val dataBuyProduct = block()
-        ProductManagement.getProductByCode(dataBuyProduct.first).let {
+        ProductManagement.getProductByCode(dataBuyProduct.first)?.let {
             buyProducts.add(
                 ProductBill(
                     code = it.code,
@@ -183,7 +178,7 @@ class BillManagement(private val userId: String) {
             products = totalProducts,
             total = totalProducts.sumByDouble { it.totalPrice },
             user = UserManagement.getUserById(userId)
-        ).apply {
+        ).also {
             println(this)
         }
 
