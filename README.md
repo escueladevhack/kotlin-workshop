@@ -67,4 +67,4 @@ Contiene los ejemplos de coroutines en Kotlin
   
   La presentación de este módulo se encuentra en [Presentación 5](https://docs.google.com/presentation/d/1iFvh8jkCllbLgo2OjPzhpIjbm-YsQ7J7dt5wK_3sPE0/edit?usp=sharing)
 
-Video de la clase [Clase 5]()
+Video de la clase [Clase 5](https://www.youtube.com/watch?v=iunr4l-m-dE)
