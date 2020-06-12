@@ -37,6 +37,8 @@ Contiene los ejemplos de programación orientada a objetos en Kotlin
   
 La presentación de este módulo se encuentra en [Presentación 2 y 3](https://docs.google.com/presentation/d/1JVhzRCsjtIxXDjBP7EfczMDYY1ayQ9Qfdo7E1KHiRxw/edit?usp=sharing)
 
+Video de la clase [Clase 2](https://www.youtube.com/watch?v=wx8M8Jcs2lI)
+Video de la clase [Clase 3](https://www.youtube.com/watch?v=8aMQp0DCCBw)
   
 ### Rama Functional Programming
 Contiene los ejemplos de programación funcional en Kotlin
@@ -50,6 +52,8 @@ Contiene los ejemplos de programación funcional en Kotlin
   - Inline Functions
   
   La presentación de este módulo se encuentra en [Presentación 4](https://docs.google.com/presentation/d/1d-sRIo6DCYbC-rD4pLJ2lV2V5ZFKblISw7zULbDK2rA/edit?usp=sharing)
+  
+  Video de la clase [Clase 4](https://www.youtube.com/watch?v=KqzSt8MSDkE)
  
     
 ### Rama Coroutines
@@ -61,3 +65,5 @@ Contiene los ejemplos de coroutines en Kotlin
   - Flows
   
   La presentación de este módulo se encuentra en [Presentación 5](https://docs.google.com/presentation/d/1iFvh8jkCllbLgo2OjPzhpIjbm-YsQ7J7dt5wK_3sPE0/edit?usp=sharing)
+
+Video de la clase [Clase 5]()
