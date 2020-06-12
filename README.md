@@ -33,7 +33,7 @@ Contiene los ejemplos de programación orientada a objetos en Kotlin
   - Inline Clases
   - Type Alias
   
-La presentación de este módulo se encuentra en [Presentación 2](https://docs.google.com/presentation/d/1JVhzRCsjtIxXDjBP7EfczMDYY1ayQ9Qfdo7E1KHiRxw/edit?usp=sharing)
+La presentación de este módulo se encuentra en [Presentación 2 y 3](https://docs.google.com/presentation/d/1JVhzRCsjtIxXDjBP7EfczMDYY1ayQ9Qfdo7E1KHiRxw/edit?usp=sharing)
 
   
 ### Rama Functional Programming
@@ -47,7 +47,7 @@ Contiene los ejemplos de programación funcional en Kotlin
   - Map
   - Inline Functions
   
-  La presentación de este módulo se encuentra en [Presentación 3](https://docs.google.com/presentation/d/1d-sRIo6DCYbC-rD4pLJ2lV2V5ZFKblISw7zULbDK2rA/edit?usp=sharing)
+  La presentación de este módulo se encuentra en [Presentación 4](https://docs.google.com/presentation/d/1d-sRIo6DCYbC-rD4pLJ2lV2V5ZFKblISw7zULbDK2rA/edit?usp=sharing)
  
     
 ### Rama Coroutines
@@ -57,3 +57,5 @@ Contiene los ejemplos de coroutines en Kotlin
   - Jobs
   - Channels
   - Flows
+  
+  La presentación de este módulo se encuentra en [Presentación 5](https://docs.google.com/presentation/d/1iFvh8jkCllbLgo2OjPzhpIjbm-YsQ7J7dt5wK_3sPE0/edit?usp=sharing)
