@@ -16,6 +16,8 @@ Contiene los fundamentos de kotlin, aquí encontraras
   - Funciones
   
 La presentación de este módulo se encuentra en [Presentación 1](https://docs.google.com/presentation/d/1MtAiObQStmQS-AiMw7VZAkjE09pvyMizNd3lXNn6HYc/edit?usp=sharing)
+
+Video de la clase [Clase 1](https://www.youtube.com/watch?v=5f0Yhyx3LPo&t=4744s)
   
  
 ### Rama OOP y OOP-2
