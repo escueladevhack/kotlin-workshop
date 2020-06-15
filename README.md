@@ -70,7 +70,7 @@ Contiene los ejemplos de coroutines en Kotlin
 Video de la clase [Clase 5](https://www.youtube.com/watch?v=iunr4l-m-dE)
 
 
-### Otros Conceptos
+### Otros Conceptos (Rama Multiplataforma)
 Contiene los ejemplos de 
   - Kotlin Multiplataforma.
   - DSL.
@@ -78,4 +78,4 @@ Contiene los ejemplos de
   
   La presentación de este módulo se encuentra en [Presentación 6](https://docs.google.com/presentation/d/18-LWTuTjcSWpgI3nUcqa_vEwnJ56rVa-jGzWfYfXqf4/edit?usp=sharing)
 
-Video de la clase [Clase 6] PRONTO !!!
+Video de la clase [Clase 6](https://youtu.be/bGCupD4Kv8Q)
